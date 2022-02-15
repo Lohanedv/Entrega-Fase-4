@@ -1,0 +1,20 @@
+.container.home{
+    background-image: url(../Home/ImgHome/FundoHome.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.card.home.container.title{
+    background-color: transparent;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    background-position: center;
+}
+.card.home.container{
+    background-color: transparent;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    margin-top: 10px;
+
+}

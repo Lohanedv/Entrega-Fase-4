@@ -1,0 +1,48 @@
+.container.Promo{
+    background-image: url(../Promocoes/ImagensPromo/FotoFundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0px 0px 10px 0px black;
+    font-weight: bold;
+    color: black;
+}
+.cardUm{
+    box-shadow: 0px 0px 10px 1px black;
+    background-image: url(../Promocoes/ImagensPromo/Promo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white
+}
+h1.titulo{
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+    font-display: bold;
+}
+.cardDois{
+    background-image: url(../Promocoes/ImagensPromo/Promo1.jpg);
+    background-repeat: no-repeat;
+    box-shadow: 0px 0px 10px 1px black;
+    background-size: cover;
+    color: white
+}
+.cardTres{
+    background-image: url(../Promocoes/ImagensPromo/Promo2.jpg);
+    background-repeat: no-repeat;
+    box-shadow: 0px 0px 10px 1px black;
+    background-size: cover;
+    color: white;
+}
+.cardQuatro{
+    background-image: url(../Promocoes/ImagensPromo/Promo3.jpg);
+    background-repeat: no-repeat;
+    box-shadow: 0px 0px 10px 1px black;
+    background-size: cover;
+    color: white;
+
+}
+.Promo{
+    text-align: center;    
+    color: #1b1b3a;
+    font-weight: bold;
+}
